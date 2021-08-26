@@ -43,3 +43,25 @@ body {
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#label-nonsmoking {
+    background-color: rgb(21, 134, 70);
+}
+
+#label-smoking {
+    background-color: rgb(212, 7, 7);
+}
